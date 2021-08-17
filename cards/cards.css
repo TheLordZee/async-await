@@ -1,0 +1,22 @@
+#stack {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+#btn {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    position: absolute;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: brown;
+}
